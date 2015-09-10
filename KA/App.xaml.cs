@@ -1,4 +1,11 @@
-﻿using System;
+﻿// ********************************************************
+// <copyright file="App.xaml.cs">
+//    This file is under MIT license.
+//    https://opensource.org/licenses/MIT
+// </copyright>
+// <author>Jonathan Günz</author>
+// ********************************************************
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;

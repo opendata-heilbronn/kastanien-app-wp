@@ -21,11 +21,11 @@
     </Page.BottomAppBar>
 
     <Grid>
-
         <Maps:MapControl Margin="0,0,0,0"
                          Name="Map"
                          Grid.Column="0"
-                         Grid.Row="0" Loaded="MapControl_Loaded"/>
-
+                         Grid.Row="0" 
+                         Loaded="MapControl_Loaded">
+        </Maps:MapControl>
     </Grid>
 </Page>

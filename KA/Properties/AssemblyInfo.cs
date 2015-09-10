@@ -1,4 +1,11 @@
-﻿using System.Reflection;
+﻿// ********************************************************
+// <copyright file="AssemblyInfo.cs">
+//    This file is under MIT license.
+//    https://opensource.org/licenses/MIT
+// </copyright>
+// <author>Jonathan Günz</author>
+// ********************************************************
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 

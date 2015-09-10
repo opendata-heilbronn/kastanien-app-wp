@@ -1,7 +1,7 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\jonathan\documents\github\kastanien-app-wp\ka\ka\obj\debug\intermediatexaml\ka.exe" HashGuid="fee964a5-621c-d697-59ef-edd2a2ccf401" />
-    <ReferenceAssembly PathName="c:\users\jonathan\documents\github\kastanien-app-wp\ka\packages\geojson.net.0.1.38\lib\geojson.net.dll" HashGuid="23dbab6f-6a69-b6a0-e3dd-af8d9170c801" />
-    <ReferenceAssembly PathName="c:\users\jonathan\documents\github\kastanien-app-wp\ka\packages\newtonsoft.json.7.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\newtonsoft.json.dll" HashGuid="86223907-5808-be51-71b4-c872f8140e29" />
+    <ReferenceAssembly PathName="c:\users\jonathan\documents\github\kastanien-app-wp\packages\geojson.net.0.1.38\lib\geojson.net.dll" HashGuid="23dbab6f-6a69-b6a0-e3dd-af8d9170c801" />
+    <ReferenceAssembly PathName="c:\users\jonathan\documents\github\kastanien-app-wp\packages\newtonsoft.json.7.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\newtonsoft.json.dll" HashGuid="86223907-5808-be51-71b4-c872f8140e29" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

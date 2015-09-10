@@ -1,0 +1,19 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+// ********************************************************
+// <copyright file="%FileName%">
+//    This file is under MIT license.
+//    https://opensource.org/licenses/MIT
+// </copyright>
+// <author>Jonathan Günz</author>
+// ********************************************************
+extensions: .aspx .ascx
+<%-- 
+********************************************************
+<copyright file="%FileName%">
+   This file is under MIT license.
+   https://opensource.org/licenses/MIT
+</copyright>
+<author>Jonathan Günz</author>
+********************************************************
+--%>

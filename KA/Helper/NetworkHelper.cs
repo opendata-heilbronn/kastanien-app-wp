@@ -1,4 +1,11 @@
-﻿using GeoJSON.Net.Feature;
+﻿// ********************************************************
+// <copyright file="NetworkHelper.cs">
+//    This file is under MIT license.
+//    https://opensource.org/licenses/MIT
+// </copyright>
+// <author>Jonathan Günz</author>
+// ********************************************************
+using GeoJSON.Net.Feature;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
